@@ -18,3 +18,4 @@ from
     cross join cls_avg as ca
 where
     e.score > ca.class_average
+    
